@@ -1,7 +1,7 @@
 # 👋
 -  Hi, I’m @kuddl
 - 👀 I’m interested in all things frontend (vanilla and frameworks)
-- 🌱 I’m currently learning ... pactience. No need to stress out about the next "hot shit".
+- 🌱 I’m currently learning ... patience. No need to stress out about the next "hot shit".
 - 📫 How to reach me: https://twitter.com/tobiassailer
 
 <!---
